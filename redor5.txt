@@ -1,0 +1,1009 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sports" tvg-logo="http://myserveriptv.com:2082/images/9d41b450a2c2cf29a76c8790e837d569.png" group-title="World Sports",StarzPlay Sports
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229226
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Crlife 1 HD" tvg-logo="http://myserveriptv.com:2082/images/9d41b450a2c2cf29a76c8790e837d569.png" group-title="World Sports",StarzPlay Crlife 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/232441
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Crlife 2 HD" tvg-logo="http://myserveriptv.com:2082/images/9d41b450a2c2cf29a76c8790e837d569.png" group-title="World Sports",StarzPlay Crlife 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/232442
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://myserveriptv.com:2082/images/6a2d87037cb50511ea5cdb8e44adb643.png" group-title="World Sports",NBA TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/476
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="http://myserveriptv.com:2082/images/508d0f4b5ac271c047cc2ea8f3466719.png" group-title="World Sports",Tennis Channel
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/28408
+#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="http://myserveriptv.com:2082/images/b4c4bc1ed13c4ee1437b4c64b0f62a1d.png" group-title="World Sports",Willow Cricket
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/65109
+#EXTINF:-1 tvg-id="" tvg-name="World Fishing Network" tvg-logo="http://myserveriptv.com:2082/images/c771860880ea9e7ca95f3dd81155b326.png" group-title="World Sports",World Fishing Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16154
+#EXTINF:-1 tvg-id="" tvg-name="Yes Network" tvg-logo="http://iptvch.com:2082/images/a6105c0a611b41b08f1209506350279e.png" group-title="World Sports",Yes Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/205816
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD" tvg-logo="http://myserveriptv.com:2082/images/ecf0d5b7e6a9b287a2c85cd569d55756.png" group-title="World Sports",MLB Network HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239805
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="http://myserveriptv.com:2082/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="World Sports",UFC Fight Pass
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/33788
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="http://myserveriptv.com:2082/images/9b916c9a9c08d84b6e146a09a6916cdd.png" group-title="World Sports",Fight Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/205838
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box" tvg-logo="http://myserveriptv.com:2082/images/c704848d4a3d3928cc23076075737c30.png" group-title="World Sports",Fight Box
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/138356
+#EXTINF:-1 tvg-id="" tvg-name="WWE Shahid Tv" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="World Sports",WWE Shahid Tv
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/228012
+#EXTINF:-1 tvg-id="" tvg-name="WWE Shahid 4K" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="World Sports",WWE Shahid 4K
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237289
+#EXTINF:-1 tvg-id="" tvg-name="WWE Netflix+" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="World Sports",WWE Netflix+
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237366
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="World Sports",WWE Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242273
+#EXTINF:-1 tvg-id="" tvg-name="WWE FRIDAY NIGHT SMACKDOWN" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="World Sports",WWE FRIDAY NIGHT SMACKDOWN
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237479
+#EXTINF:-1 tvg-id="" tvg-name="WWE SmackDown 1" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="World Sports",WWE SmackDown 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237480
+#EXTINF:-1 tvg-id="" tvg-name="WWE NEXT" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="World Sports",WWE NEXT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237481
+#EXTINF:-1 tvg-id="" tvg-name="WWE RAW" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="World Sports",WWE RAW
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237482
+#EXTINF:-1 tvg-id="" tvg-name="WWE GLOBAL" tvg-logo="http://myserveriptv.com:2082/images/4621344548e00177074b01631c46dbb9.png" group-title="World Sports",WWE GLOBAL
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237483
+#EXTINF:-1 tvg-id="" tvg-name="➤ United Kingdom" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ United Kingdom
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242283
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 1 HD" tvg-logo="" group-title="World Sports",UK: Viaplay Sports 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242280
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Sports 2 HD" tvg-logo="" group-title="World Sports",UK: Viaplay Sports 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242281
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viaplay Xtra HD" tvg-logo="" group-title="World Sports",UK: Viaplay Xtra HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242282
+#EXTINF:-1 tvg-id="" tvg-name="➤ Germany" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Germany
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225628
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 1 4K" tvg-logo="http://myserveriptv.com:2082/images/5537b687abc3cd0d50ea9d6205903f40.png" group-title="World Sports",DAZN Bar 1 4K
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/249947
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 2 4K" tvg-logo="http://myserveriptv.com:2082/images/5537b687abc3cd0d50ea9d6205903f40.png" group-title="World Sports",DAZN Bar 2 4K
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/249948
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC Bayern HD" tvg-logo="http://myserveriptv.com:2082/images/6ce61213cccbb053f151790bbb605bb9.png" group-title="World Sports",DE: FC Bayern HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16509
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Digital" tvg-logo="" group-title="World Sports",DE: Sport Digital
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242081
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1" tvg-logo="" group-title="World Sports",DE: Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242082
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1+" tvg-logo="" group-title="World Sports",DE: Sport 1+
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242083
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport News" tvg-logo="" group-title="World Sports",DE: Sport News
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242364
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Top Event" tvg-logo="" group-title="World Sports",DE: Sport Top Event
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242365
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport MIX" tvg-logo="" group-title="World Sports",DE: Sport MIX
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242367
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Golf" tvg-logo="" group-title="World Sports",DE: Sport Golf
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242368
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport F1" tvg-logo="" group-title="World Sports",DE: Sport F1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242369
+#EXTINF:-1 tvg-id="" tvg-name="DE: Motorvision" tvg-logo="http://myserveriptv.com:2082/images/9b06e1603cfedf6bb77462e41e9e5e37.png" group-title="World Sports",DE: Motorvision
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/13977
+#EXTINF:-1 tvg-id="" tvg-name="➤ Austria" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Austria
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225839
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF Sport" tvg-logo="http://myserveriptv.com:2082/images/4cc23160ca0e0a03261fd90d166c9c8a.png" group-title="World Sports",AT: ORF Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/121223
+#EXTINF:-1 tvg-id="" tvg-name="AT: ORF Sport+ HD" tvg-logo="http://myserveriptv.com:2082/images/4cc23160ca0e0a03261fd90d166c9c8a.png" group-title="World Sports",AT: ORF Sport+ HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16517
+#EXTINF:-1 tvg-id="" tvg-name="➤ Netherlands" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Netherlands
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225761
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Voetbal" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="World Sports",NL: Ziggo Voetbal
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229637
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Select" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="World Sports",NL: Ziggo Select
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229636
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Docu HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="World Sports",NL: Ziggo Sport Docu HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76355
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Golf HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="World Sports",NL: Ziggo Sport Golf HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76352
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="World Sports",NL: Ziggo Sport HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/66852
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Racing HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="World Sports",NL: Ziggo Sport Racing HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76353
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="World Sports",NL: Ziggo Sport Select HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76350
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Tennis HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="World Sports",NL: Ziggo Sport Tennis HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76354
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Voetbal HD" tvg-logo="http://myserveriptv.com:2082/images/a67ebab7829454bb119bbd46b225d922.png" group-title="World Sports",NL: Ziggo Sport Voetbal HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76351
+#EXTINF:-1 tvg-id="" tvg-name="NL: Formula F1" tvg-logo="http://myserveriptv.com:2082/images/bd3f2322a29a3c21ed2dc4b4330999f6.png" group-title="World Sports",NL: Formula F1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/236419
+#EXTINF:-1 tvg-id="" tvg-name="NL: Eurosport 1 HD" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="World Sports",NL: Eurosport 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76363
+#EXTINF:-1 tvg-id="" tvg-name="NL: Eurosport 2 HD" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="World Sports",NL: Eurosport 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76364
+#EXTINF:-1 tvg-id="" tvg-name="NL: Extreme Sports HD" tvg-logo="http://myserveriptv.com:2082/images/fe91a9236747e61a5b83e2e95792cdb9.png" group-title="World Sports",NL: Extreme Sports HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/66801
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN HD" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="World Sports",NL: ESPN HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76357
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 2 HD" tvg-logo="http://myserveriptv.com:2082/images/b0dd6923e295d0bf2c61149f2d8f5b04.png" group-title="World Sports",NL: ESPN 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76358
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3 HD" tvg-logo="http://myserveriptv.com:2082/images/072e821010c59936992557e9552b26f0.png" group-title="World Sports",NL: ESPN 3 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76359
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 4 HD" tvg-logo="http://myserveriptv.com:2082/images/68887ec88877c0f9cfd7c2295179b01a.png" group-title="World Sports",NL: ESPN 4 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/76360
+#EXTINF:-1 tvg-id="" tvg-name="NL: Via Play Sport" tvg-logo="http://myserveriptv.com:2082/images/f8b20371cb665422d15d65bfab0d59ad.png" group-title="World Sports",NL: Via Play Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/238828
+#EXTINF:-1 tvg-id="" tvg-name="➤ Turkey" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Turkey
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/226044
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",TR: beIN SPORTS 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235467
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",TR: beIN SPORTS 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235468
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",TR: beIN SPORTS 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235469
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",TR: beIN SPORTS 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235470
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",TR: beIN SPORTS 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241036
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS Haber" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",TR: beIN SPORTS Haber
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77252
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS Max 1" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",TR: beIN SPORTS Max 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237784
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS Max 2" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",TR: beIN SPORTS Max 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237783
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="" group-title="World Sports",TR: TRT SPOR YILDIZ
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241045
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV" tvg-logo="" group-title="World Sports",TR: TAY TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241048
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK" tvg-logo="" group-title="World Sports",TR: TJK
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241049
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor" tvg-logo="http://myserveriptv.com:2082/images/c074eeb1e19363198f9b644c92a89260.png" group-title="World Sports",TR: A Spor
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77421
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sports TV" tvg-logo="http://myserveriptv.com:2082/images/0b65e662e40a68723215fcf13b55b252.png" group-title="World Sports",TR: Sports TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77269
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor" tvg-logo="http://myserveriptv.com:2082/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="World Sports",TR: TRT Spor
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77274
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor 2" tvg-logo="http://myserveriptv.com:2082/images/6127a41e8ee30716c817fc7b479cbb48.png" group-title="World Sports",TR: TRT Spor 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77275
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 1 HD" tvg-logo="http://myserveriptv.com:2082/images/65c0f060ab4b694311df4b1e4098f282.png" group-title="World Sports",TR: S Sport 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229667
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 2 HD" tvg-logo="" group-title="World Sports",TR: S Sport 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237785
+#EXTINF:-1 tvg-id="" tvg-name="TR: SporSmart HD" tvg-logo="http://myserveriptv.com:2082/images/0c8904c64e3a265a15874b82636e9316.png" group-title="World Sports",TR: SporSmart HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77268
+#EXTINF:-1 tvg-id="" tvg-name="TR: SporSmart 2" tvg-logo="http://myserveriptv.com:2082/images/a44d668deacbea6b0e33ed875ffe6361.png" group-title="World Sports",TR: SporSmart 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77255
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV" tvg-logo="http://myserveriptv.com:2082/images/6a2d87037cb50511ea5cdb8e44adb643.png" group-title="World Sports",TR: NBA TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77273
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="World Sports",TR: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77270
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="World Sports",TR: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77271
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="World Sports",TR: Tivibu Spor 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77258
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="World Sports",TR: Tivibu Spor 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77260
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="World Sports",TR: Tivibu Spor 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77262
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="World Sports",TR: Tivibu Spor 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241035
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV" tvg-logo="" group-title="World Sports",TR: FB TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237799
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV" tvg-logo="" group-title="World Sports",TR: GS TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237805
+#EXTINF:-1 tvg-id="" tvg-name="➤ France" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ France
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225647
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 1" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",FR: beIN SPORTS 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20831
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 2" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",FR: beIN SPORTS 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20832
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 3" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",FR: beIN SPORTS 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20833
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR: Canal+ Sport" tvg-logo="http://myserveriptv.com:2082/images/da6a1af733118fb2cc43871533f71498.png" group-title="World Sports",FR: Canal+ Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20886
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="http://myserveriptv.com:2082/images/a1aef86b90954c39048d73caea35fe55.png" group-title="World Sports",FR: RMC Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20851
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2" tvg-logo="http://myserveriptv.com:2082/images/ab3e9f2b0af458aa3db9ad6aa8278266.png" group-title="World Sports",FR: RMC Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20852
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="FR: Golf+ HD" tvg-logo="http://myserveriptv.com:2082/images/179798d007f66a2e9971855a5a6d3ade.png" group-title="World Sports",FR: Golf+ HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20955
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="World Sports",FR: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/43954
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="World Sports",FR: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/43956
+#EXTINF:-1 tvg-id="" tvg-name="FR: Info Sport" tvg-logo="http://myserveriptv.com:2082/images/c08570ffcc111c982374d631f317ed20.png" group-title="World Sports",FR: Info Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20959
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot 24" tvg-logo="http://myserveriptv.com:2082/images/4ff6e2ce04e6e58187e0fce0e4f9f990.png" group-title="World Sports",FR: Foot 24
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20951
+#EXTINF:-1 tvg-id="" tvg-name="FR: Automoto HD" tvg-logo="http://myserveriptv.com:2082/images/5583ca2b913ffa4f94851234d79b6723.png" group-title="World Sports",FR: Automoto HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/20897
+#EXTINF:-1 tvg-id="" tvg-name="➤ Belgium" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Belgium
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242858
+#EXTINF:-1 tvg-id="" tvg-name="BE: Eleven Sports 1" tvg-logo="" group-title="World Sports",BE: Eleven Sports 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229673
+#EXTINF:-1 tvg-id="" tvg-name="BE: Eleven Sports 2" tvg-logo="" group-title="World Sports",BE: Eleven Sports 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242760
+#EXTINF:-1 tvg-id="" tvg-name="BE: Eleven Sports 3" tvg-logo="" group-title="World Sports",BE: Eleven Sports 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242761
+#EXTINF:-1 tvg-id="" tvg-name="➤ Sweden" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Sweden
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225864
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport 1" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="World Sports",SE: Viasat Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242813
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport Premium" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="World Sports",SE: Viasat Sport Premium
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16073
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Fotboll" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="World Sports",SE: Viasat Fotboll
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16074
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Fotboll" tvg-logo="http://myserveriptv.com:2082/images/050ec7677a49085f5aa3100b335baceb.png" group-title="World Sports",SE: C More Fotboll
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16098
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Hockey" tvg-logo="http://myserveriptv.com:2082/images/26783b3ec89384ed8ae2a524575f95eb.png" group-title="World Sports",SE: C More Hockey
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16099
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport Golf" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="World Sports",SE: Viasat Sport Golf
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/228534
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport Vinter" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="World Sports",SE: Viasat Sport Vinter
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242817
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Motor" tvg-logo="http://myserveriptv.com:2082/images/e23a06f8d702c1989e01d32d1adf156d.png" group-title="World Sports",SE: Viasat Motor
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242816
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Sportkanalen" tvg-logo="" group-title="World Sports",SE: TV4 Sportkanalen
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242811
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Fotboll" tvg-logo="" group-title="World Sports",SE: TV4 Fotboll
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242818
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Sport Live" tvg-logo="" group-title="World Sports",SE: TV4 Sport Live
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242819
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Hockey" tvg-logo="" group-title="World Sports",SE: TV4 Hockey
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242820
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Motor" tvg-logo="" group-title="World Sports",SE: TV4 Motor
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242854
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Live 2" tvg-logo="" group-title="World Sports",SE: TV4 Live 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242855
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Live 3" tvg-logo="" group-title="World Sports",SE: TV4 Live 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242856
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Live 4" tvg-logo="" group-title="World Sports",SE: TV4 Live 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242857
+#EXTINF:-1 tvg-id="" tvg-name="SE: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="World Sports",SE: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16095
+#EXTINF:-1 tvg-id="" tvg-name="➤ Denmark" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Denmark
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225894
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV2 Sport" tvg-logo="http://myserveriptv.com:2082/images/f918a2bbb07507fb48385f426be6818f.png" group-title="World Sports",DK: TV2 Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16023
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV2 Sport X" tvg-logo="" group-title="World Sports",DK: TV2 Sport X
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229817
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV3 Sport" tvg-logo="http://myserveriptv.com:2082/images/c1d80a149860ecc6f22d438b880c3e47.png" group-title="World Sports",DK: TV3 Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/16024
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV3 Sport 2" tvg-logo="" group-title="World Sports",DK: TV3 Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/238868
+#EXTINF:-1 tvg-id="" tvg-name="DK: V Sport HD" tvg-logo="" group-title="World Sports",DK: V Sport HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242362
+#EXTINF:-1 tvg-id="" tvg-name="DK: V Sport Ultra HD" tvg-logo="" group-title="World Sports",DK: V Sport Ultra HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242363
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viaplay 01 HD" tvg-logo="" group-title="World Sports",DK: Viaplay 01 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/247367
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viaplay 02 HD" tvg-logo="" group-title="World Sports",DK: Viaplay 02 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/247368
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viaplay 03 HD" tvg-logo="" group-title="World Sports",DK: Viaplay 03 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/247369
+#EXTINF:-1 tvg-id="" tvg-name="DK: Viaplay 04 HD" tvg-logo="" group-title="World Sports",DK: Viaplay 04 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/247370
+#EXTINF:-1 tvg-id="" tvg-name="➤ Norway" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Norway
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/226047
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV2 Sport Premium" tvg-logo="" group-title="World Sports",NO: TV2 Sport Premium
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229666
+#EXTINF:-1 tvg-id="" tvg-name="➤ Switzerland" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Switzerland
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225643
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue Sport 1" tvg-logo="http://myserveriptv.com:2082/images/4dc5952508ef3411fb71a49fab0ead42.png" group-title="World Sports",SW: Blue Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/39459
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue Sport 2" tvg-logo="http://myserveriptv.com:2082/images/39bc59ad02d856b690ffe56e95c33dc5.png" group-title="World Sports",SW: Blue Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/39461
+#EXTINF:-1 tvg-id="" tvg-name="SW: MySports FHD" tvg-logo="http://myserveriptv.com:2082/images/28114991294e45f6f60aa7e087e92e42.png" group-title="World Sports",SW: MySports FHD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/39440
+#EXTINF:-1 tvg-id="" tvg-name="➤ Poland" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Poland
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225872
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 1 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="World Sports",PL: UEFA Champions League 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229591
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 2 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="World Sports",PL: UEFA Champions League 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229592
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 3 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="World Sports",PL: UEFA Champions League 3 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229593
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 4 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="World Sports",PL: UEFA Champions League 4 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229594
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 5 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="World Sports",PL: UEFA Champions League 5 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229595
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 6 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="World Sports",PL: UEFA Champions League 6 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229596
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT NEWS" tvg-logo="" group-title="World Sports",PL: POLSAT SPORT NEWS
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250389
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT" tvg-logo="" group-title="World Sports",PL: POLSAT SPORT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250397
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT" tvg-logo="" group-title="World Sports",PL: CANAL+ SPORT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250398
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="" group-title="World Sports",PL: CANAL+ SPORT 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250399
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT 3" tvg-logo="" group-title="World Sports",PL: CANAL+ SPORT 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250400
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT 4" tvg-logo="" group-title="World Sports",PL: CANAL+ SPORT 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250401
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="" group-title="World Sports",PL: ELEVEN SPORTS 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250403
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="" group-title="World Sports",PL: ELEVEN SPORTS 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250404
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="" group-title="World Sports",PL: ELEVEN SPORTS 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250405
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="" group-title="World Sports",PL: ELEVEN SPORTS 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250406
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORTKLUB" tvg-logo="" group-title="World Sports",PL: SPORTKLUB
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250408
+#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORT 1" tvg-logo="" group-title="World Sports",PL: EUROSPORT 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250409
+#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORT 2" tvg-logo="" group-title="World Sports",PL: EUROSPORT 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250410
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP SPORT" tvg-logo="" group-title="World Sports",PL: TVP SPORT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250411
+#EXTINF:-1 tvg-id="" tvg-name="➤ Romania" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Romania
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/226142
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4" tvg-logo="http://myserveriptv.com:2082/images/5acf144c3939d71c8d81ef26c5ca8e41.png" group-title="World Sports",RO: Digi Sport 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126083
+#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="World Sports",RO: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/112221
+#EXTINF:-1 tvg-id="" tvg-name="RO: Extreme Sport" tvg-logo="http://myserveriptv.com:2082/images/fe91a9236747e61a5b83e2e95792cdb9.png" group-title="World Sports",RO: Extreme Sport
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/112223
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 1" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="World Sports",RO: Telekom Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31184
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 2" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="World Sports",RO: Telekom Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31185
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 3" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="World Sports",RO: Telekom Sport 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31186
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 4" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="World Sports",RO: Telekom Sport 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31187
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1" tvg-logo="http://myserveriptv.com:2082/images/2ccfb0925903b34d1fbd9f6011947ce7.png" group-title="World Sports",RO: Digi Sport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126059
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2" tvg-logo="http://myserveriptv.com:2082/images/f4b405bb782b9c646719d6725e37402d.png" group-title="World Sports",RO: Digi Sport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126060
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3" tvg-logo="http://myserveriptv.com:2082/images/db64626b59dda130e571097f93f4f136.png" group-title="World Sports",RO: Digi Sport 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126082
+#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="World Sports",RO: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/248377
+#EXTINF:-1 tvg-id="" tvg-name="RO: Prima Sport 1 " tvg-logo="" group-title="World Sports",RO: Prima Sport 1 
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/248378
+#EXTINF:-1 tvg-id="" tvg-name="➤ Italy" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Italy
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225691
+#EXTINF:-1 tvg-id="" tvg-name="IT: Dazn Zona" tvg-logo="" group-title="World Sports",IT: Dazn Zona
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/248444
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport HD" tvg-logo="http://myserveriptv.com:2082/images/7a77a5e9817ff537c3b301f8acb67e60.png" group-title="World Sports",IT: Rai Sport HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/43942
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sport Italia" tvg-logo="http://myserveriptv.com:2082/images/8bff1aa72bf2a9636b21dae14bcc4bbe.png" group-title="World Sports",IT: Sport Italia
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14751
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super Tennis" tvg-logo="http://myserveriptv.com:2082/images/6fe4ff3a5df48be85bbbf95bde34035a.png" group-title="World Sports",IT: Super Tennis
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14757
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eurosport 1" tvg-logo="" group-title="World Sports",IT: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242248
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eurosport 2" tvg-logo="" group-title="World Sports",IT: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242249
+#EXTINF:-1 tvg-id="" tvg-name="➤ Spain" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Spain
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225899
+#EXTINF:-1 tvg-id="beINSportsLaLiga.us" tvg-name="beIN SPORTS LaLiga" tvg-logo="http://myserveriptv.com:2082/images/886b13d53c3ffe929aa06192381d82f6.png" group-title="World Sports",beIN SPORTS LaLiga
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/40702
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",beIN SPORTS Espana
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235539
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Plus" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar Plus
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136051
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga Tv Bar" tvg-logo="http://myserveriptv.com:2082/images/cf19734aa10a23bbf0739cfcf05d8666.png" group-title="World Sports",ES: LaLiga Tv Bar
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135958
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar LaLiga
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135959
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar DAZN 1" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar DAZN 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135989
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar DAZN 2" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar DAZN 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135990
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar DAZN 3" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar DAZN 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/207568
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar DAZN 4" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar DAZN 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/207566
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Liga" tvg-logo="http://myserveriptv.com:2082/images/5537b687abc3cd0d50ea9d6205903f40.png" group-title="World Sports",ES: DAZN Liga
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241940
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Formula 1" tvg-logo="http://myserveriptv.com:2082/images/5537b687abc3cd0d50ea9d6205903f40.png" group-title="World Sports",ES: DAZN Formula 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241945
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar Deportes
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135980
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 2" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar Deportes 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135982
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 3" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar Deportes 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135983
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Deportes 4" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar Deportes 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135984
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Formula 1" tvg-logo="http://myserveriptv.com:2082/images/bd3f2322a29a3c21ed2dc4b4330999f6.png" group-title="World Sports",ES: Movistar Formula 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135991
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga Multi 1" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar LaLiga Multi 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135960
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga Multi 2" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar LaLiga Multi 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135962
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar LaLiga Multi 3" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar LaLiga Multi 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/207550
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Golf" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="World Sports",ES: Movistar Golf
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135992
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Campeones" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="World Sports",ES: Liga Campeones
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135970
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 1" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="World Sports",ES: Liga De Campeones 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135971
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 2" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="World Sports",ES: Liga De Campeones 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135972
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 3" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="World Sports",ES: Liga De Campeones 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135973
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga De Campeones 4" tvg-logo="http://myserveriptv.com:2082/images/9900e4f0f336730dd1660cd3ee2c6c6a.png" group-title="World Sports",ES: Liga De Campeones 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/135974
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Sports Tv" tvg-logo="" group-title="World Sports",ES: Liga Sports Tv
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241918
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid TV" tvg-logo="http://myserveriptv.com:2082/images/22c2b5f86e5edb9cb57179d3f3567b00.png" group-title="World Sports",ES: Real Madrid TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136010
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Barca TV" tvg-logo="http://myserveriptv.com:2082/images/1f9cb5817ed464188ef8fc910526d707.png" group-title="World Sports",ES: Canal Barca TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136011
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="World Sports",ES: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136008
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="World Sports",ES: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/136009
+#EXTINF:-1 tvg-id="" tvg-name="ES: Torole" tvg-logo="" group-title="World Sports",ES: Torole
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241957
+#EXTINF:-1 tvg-id="" tvg-name="ES: U-Beat" tvg-logo="http://myserveriptv.com:2082/images/b26b34e66ede0a898d6dc9ff7f7ba747.png" group-title="World Sports",ES: U-Beat
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/207560
+#EXTINF:-1 tvg-id="" tvg-name="ES: Espn Deportes" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="World Sports",ES: Espn Deportes
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239753
+#EXTINF:-1 tvg-id="" tvg-name="ES: Espn Deportes 2" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="World Sports",ES: Espn Deportes 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241967
+#EXTINF:-1 tvg-id="" tvg-name="ES: Espn Deportes 3" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="World Sports",ES: Espn Deportes 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/241968
+#EXTINF:-1 tvg-id="" tvg-name="➤ Portugal" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Portugal
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225640
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA Tv" tvg-logo="http://myserveriptv.com:2082/images/83225fc3979631186c44c003b7128e73.png" group-title="World Sports",PT: NBA Tv
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242671
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting TV HD" tvg-logo="http://myserveriptv.com:2082/images/4d00e7da2180f61f45e2cf1ffb8f97d8.png" group-title="World Sports",PT: Sporting TV HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224105
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV + HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="World Sports",PT: Sport TV + HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224078
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="World Sports",PT: Sport TV 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224080
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="World Sports",PT: Sport TV 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224082
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="World Sports",PT: Sport TV 3 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224084
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="World Sports",PT: Sport TV 4 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224086
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="World Sports",PT: Sport TV 5 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224088
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="World Sports",PT: Sport TV 6 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224090
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="World Sports",PT: Eleven Sports 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224093
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="World Sports",PT: Eleven Sports 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224095
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="World Sports",PT: Eleven Sports 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224097
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="World Sports",PT: Eleven Sports 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224099
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="World Sports",PT: Eleven Sports 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224101
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="World Sports",PT: Eleven Sports 6
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/224103
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="World Sports",PT: Eurosport 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/130966
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="World Sports",PT: Eurosport 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/130967
+#EXTINF:-1 tvg-id="" tvg-name="➤ Canada" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ Canada
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225846
+#EXTINF:-1 tvg-id="" tvg-name="CA: BeIN Sports" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",CA: BeIN Sports
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/211456
+#EXTINF:-1 tvg-id="" tvg-name="CA: beIN SPORTS Canada" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",CA: beIN SPORTS Canada
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235541
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1" tvg-logo="http://myserveriptv.com:2082/images/8e763ad6349f78c7114886aebab3f5aa.png" group-title="World Sports",CA: TSN 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32046
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 2" tvg-logo="http://myserveriptv.com:2082/images/de8c42c6f9c807ab4426953383f7e7c6.png" group-title="World Sports",CA: TSN 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32047
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 3" tvg-logo="http://myserveriptv.com:2082/images/06bec5d2f6674c22afc8b8214f1f1bf1.png" group-title="World Sports",CA: TSN 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32048
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 4" tvg-logo="http://myserveriptv.com:2082/images/1b132bd5f3f084f4cc05289880acdeb1.png" group-title="World Sports",CA: TSN 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32049
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 5" tvg-logo="http://myserveriptv.com:2082/images/fcefceb7193fc995f79c6bc0fc2fe438.png" group-title="World Sports",CA: TSN 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/32480
+#EXTINF:-1 tvg-id="" tvg-name="➤ United States" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="World Sports",➤ United States
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/225774
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",beIN SPORTS XTRA
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235540
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 1 HD" tvg-logo="http://myserveriptv.com:2082/images/32f3121bc314ba06628573737f575b3e.png" group-title="World Sports",US: FOX SPORTS 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235547
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 2 HD" tvg-logo="http://myserveriptv.com:2082/images/32f3121bc314ba06628573737f575b3e.png" group-title="World Sports",US: FOX SPORTS 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/235548
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network" tvg-logo="http://myserveriptv.com:2082/images/8a35c127c339ab7f08c0311f05f24ec0.png" group-title="World Sports",US: NFL Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239477
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Red Zone" tvg-logo="http://myserveriptv.com:2082/images/8a35c127c339ab7f08c0311f05f24ec0.png" group-title="World Sports",US: NFL Red Zone
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239478
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Soccer Plus HD" tvg-logo="http://myserveriptv.com:2082/images/32f3121bc314ba06628573737f575b3e.png" group-title="World Sports",US: FOX Soccer Plus HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239692
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein Sports HD" tvg-logo="http://myserveriptv.com:2082/images/abe1d6e24ad4ed71ba93aa58849b12ae.png" group-title="World Sports",US: Bein Sports HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239730
+#EXTINF:-1 tvg-id="" tvg-name="US: Espn 1 HD" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="World Sports",US: Espn 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239749
+#EXTINF:-1 tvg-id="" tvg-name="US: Espn 2 HD" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="World Sports",US: Espn 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239750
+#EXTINF:-1 tvg-id="" tvg-name="US: Golf Channel" tvg-logo="" group-title="World Sports",US: Golf Channel
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239766
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="http://myserveriptv.com:2082/images/98f65c89dc9afce501dcb930c94f494a.png" group-title="World Sports",US: NHL Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239804
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Sports Network" tvg-logo="" group-title="World Sports",US: CBS Sports Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239811
+#EXTINF:-1 tvg-id="" tvg-name="US: MotorTrend" tvg-logo="" group-title="World Sports",US: MotorTrend
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239814
+#EXTINF:-1 tvg-id="" tvg-name="US: STADIUM" tvg-logo="" group-title="World Sports",US: STADIUM
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239817
+#EXTINF:-1 tvg-id="" tvg-name="US: Billiard TV" tvg-logo="" group-title="World Sports",US: Billiard TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/239829
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1" tvg-logo="http://myserveriptv.com:2082/images/e7439cba37ac08c95310f9d89bd0a84a.png" group-title="Turkey",TR: TRT 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77322
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="http://myserveriptv.com:2082/images/f9b0a1b1133d706561e8e98f122b7fdc.png" group-title="Turkey",TR: TRT 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77344
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Avaz" tvg-logo="http://myserveriptv.com:2082/images/5bd2be803fba28f0bfce121c79c8888d.png" group-title="Turkey",TR: TRT Avaz
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77346
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Turk" tvg-logo="http://myserveriptv.com:2082/images/cc66588eb21fb9a99ccca76605bff2ac.png" group-title="Turkey",TR: TRT Turk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77345
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D" tvg-logo="http://myserveriptv.com:2082/images/38f974d878baf2221ecfa497ca62a3bd.png" group-title="Turkey",TR: Kanal D
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77326
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro D" tvg-logo="http://myserveriptv.com:2082/images/5bd0bc3bf7ba23803ccd9034c652161a.png" group-title="Turkey",TR: Euro D
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/129148
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="http://myserveriptv.com:2082/images/cf61ee8fca8701f1ae78077c3a706ac0.png" group-title="Turkey",TR: ATV HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/113560
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Avrupa" tvg-logo="http://myserveriptv.com:2082/images/9c5e062ad3331fbe439dd901592cd8a8.png" group-title="Turkey",TR: ATV Avrupa
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77357
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Para HD" tvg-logo="http://myserveriptv.com:2082/images/958c5e3d755339cf487aeb3ac3450923.png" group-title="Turkey",TR: A Para HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77396
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star TV" tvg-logo="http://myserveriptv.com:2082/images/3d4d73d470b83fe148cdd5954caf3367.png" group-title="Turkey",TR: Star TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77327
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV" tvg-logo="http://myserveriptv.com:2082/images/1bc03a024973727689004f12d94e7549.png" group-title="Turkey",TR: Show TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77330
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Turk" tvg-logo="http://myserveriptv.com:2082/images/62a093e4eb79f54811ed0a98ba71ec27.png" group-title="Turkey",TR: Show Turk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77329
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Max" tvg-logo="http://myserveriptv.com:2082/images/3479b9f8abb8c88cf548a8a3ad2be065.png" group-title="Turkey",TR: Show Max
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/129812
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7" tvg-logo="http://myserveriptv.com:2082/images/0767e21c44b691ae209f4b0c0a864aab.png" group-title="Turkey",TR: Kanal 7
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77336
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Avrupa" tvg-logo="http://myserveriptv.com:2082/images/d7f9acc969c8fea4b48a29a9ddb9efef.png" group-title="Turkey",TR: Kanal 7 Avrupa
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/129150
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8" tvg-logo="http://myserveriptv.com:2082/images/6e036ee58f7227d6de48f6183afee307.png" group-title="Turkey",TR: TV8
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77485
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5" tvg-logo="http://myserveriptv.com:2082/images/e3e2e67c466d9523c63946d3bfb5b7d3.png" group-title="Turkey",TR: TV8.5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77486
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 Int" tvg-logo="http://myserveriptv.com:2082/images/d27c5a861f1a1f591f7889e6e81aec28.png" group-title="Turkey",TR: TV8 Int
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77361
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber" tvg-logo="http://myserveriptv.com:2082/images/3a7414797b97172eb10804614f7a5e73.png" group-title="Turkey",TR: A Haber
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77395
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Haber" tvg-logo="http://myserveriptv.com:2082/images/3e1ec298e0c1adcb12a51c6e112cc017.png" group-title="Turkey",TR: TRT Haber
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77405
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber" tvg-logo="http://myserveriptv.com:2082/images/761f93a3a79366d9c147040f397c14f4.png" group-title="Turkey",TR: TGRT Haber
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77356
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV Harber" tvg-logo="http://myserveriptv.com:2082/images/a37a65eb968bab355004a71cd16a660b.png" group-title="Turkey",TR: NTV Harber
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77495
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tele 1" tvg-logo="http://myserveriptv.com:2082/images/36c3fe538201168513e73c3b125aa9ee.png" group-title="Turkey",TR: Tele 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77355
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Turk" tvg-logo="http://myserveriptv.com:2082/images/943faf83f158bd16d442dafe2086f748.png" group-title="Turkey",TR: Haber Turk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77400
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Global" tvg-logo="http://myserveriptv.com:2082/images/943faf83f158bd16d442dafe2086f748.png" group-title="Turkey",TR: Haber Global
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77399
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV" tvg-logo="http://myserveriptv.com:2082/images/3976bbb6e78d70ac9ab9232ee1e3f85c.png" group-title="Turkey",TR: 24 TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77491
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT World" tvg-logo="http://myserveriptv.com:2082/images/726b05251dee86aade2bef24376c60d9.png" group-title="Turkey",TR: TRT World
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77347
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100" tvg-logo="http://myserveriptv.com:2082/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="Turkey",TR: TV 100
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77343
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulke TV" tvg-logo="http://myserveriptv.com:2082/images/b61697b5f700973e61d1d2a106c6a9d0.png" group-title="Turkey",TR: Ulke TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77407
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal B" tvg-logo="http://myserveriptv.com:2082/images/95f431609aba0400f6866f14b0b62868.png" group-title="Turkey",TR: Kanal B
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77350
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bloomberg Türkiye" tvg-logo="http://myserveriptv.com:2082/images/1869c8bd48f7e1ee884d0a2c0f23bf34.png" group-title="Turkey",TR: Bloomberg Türkiye
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77397
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://myserveriptv.com:2082/images/2cc3b329cb404213b725d2a9f6c95af5.png" group-title="Turkey",TR: Dream Turk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77369
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power HD" tvg-logo="http://myserveriptv.com:2082/images/6e492321532f66674e34b9a64efcae9e.png" group-title="Turkey",TR: Power HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77376
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral TV" tvg-logo="http://myserveriptv.com:2082/images/d8eb4d31461cf970f41cc20125cb4051.png" group-title="Turkey",TR: Kral TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77370
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Pop" tvg-logo="http://myserveriptv.com:2082/images/414a1b2ad515c31a158c5e8ec252bd86.png" group-title="Turkey",TR: Kral Pop
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77371
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Muzik" tvg-logo="http://myserveriptv.com:2082/images/a7ce87a2af4709d0349001b11dac8393.png" group-title="Turkey",TR: TRT Muzik
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77374
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 Turk HD" tvg-logo="http://myserveriptv.com:2082/images/ec5221e7abe4783d9802f635e22052d9.png" group-title="Turkey",TR: NR1 Turk HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77351
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fox" tvg-logo="http://myserveriptv.com:2082/images/de7b8fdc57c8a948bc0cf52b31b617f3.png" group-title="Turkey",TR: Fox
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77488
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teve 2" tvg-logo="http://myserveriptv.com:2082/images/2d6d8b592c6d8fdc07d26d6f31c94942.png" group-title="Turkey",TR: Teve 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77338
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ" tvg-logo="http://myserveriptv.com:2082/images/a7f6f5c42cc96bae07620ebc5a90e284.png" group-title="Turkey",TR: beIN IZ
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77302
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Gurme" tvg-logo="http://myserveriptv.com:2082/images/808fc32d630bbb702a81e320385fe9a5.png" group-title="Turkey",TR: beIN Gurme
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/39110
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel" tvg-logo="http://myserveriptv.com:2082/images/04986cd5e5a89bb92c1a7cb28342f1a2.png" group-title="Turkey",TR: TRT Belgesel
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77312
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science" tvg-logo="http://myserveriptv.com:2082/images/eaab6a745c5fec4eb018f891720266d4.png" group-title="Turkey",TR: Discovery Science
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77304
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SHOWCASE HD" tvg-logo="" group-title="Turkey",TR: DISCOVERY SHOWCASE HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242665
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png" group-title="Turkey",TR: Nat Geo Wild
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77310
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic" tvg-logo="http://myserveriptv.com:2082/images/d933df149c62be04ea54d3a9bfb0372c.png" group-title="Turkey",TR: National Geographic
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77311
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo People" tvg-logo="" group-title="Turkey",TR: Nat Geo People
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242664
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dmax" tvg-logo="" group-title="Turkey",TR: Dmax
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250367
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery ID" tvg-logo="" group-title="Turkey",TR: Discovery ID
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250368
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="" group-title="Turkey",TR: Discovery Channel
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250369
+#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY" tvg-logo="" group-title="Turkey",TR: HISTORY
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250370
+#EXTINF:-1 tvg-id="" tvg-name="TR: IDX DISCOVERY" tvg-logo="" group-title="Turkey",TR: IDX DISCOVERY
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250371
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Çocuk" tvg-logo="http://myserveriptv.com:2082/images/073bed7701dd2e95c35c29b7f79c1a67.png" group-title="Turkey",TR: TRT Çocuk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77388
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Go" tvg-logo="http://myserveriptv.com:2082/images/dc1308f95d93d4e7352227c4dbe64ccc.png" group-title="Turkey",TR: Minika Go
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77385
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang" tvg-logo="http://myserveriptv.com:2082/images/8c9d96b1ef82662dd41a42e8528876b6.png" group-title="Turkey",TR: Boomerang
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77379
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nickelodeon" tvg-logo="http://myserveriptv.com:2082/images/cce585460ae0a79d61b104664fd4ad89.png" group-title="Turkey",TR: Nickelodeon
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77387
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="http://myserveriptv.com:2082/images/baf9de9c28fc83e02a855636615b4dab.png" group-title="Turkey",TR: Nick Junior
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/139342
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="Turkey",TR: beIN Series 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/144690
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" group-title="Turkey",TR: beIN Series 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/144691
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="Turkey",TR: beIN Movies Premier
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77281
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="Turkey",TR: beIN Movies Premier 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77282
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" group-title="Turkey",TR: beIN Movies Stars
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77283
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="Turkey",TR: beIN Movies Action
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77284
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action 2" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="Turkey",TR: beIN Movies Action 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77469
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Family" tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" group-title="Turkey",TR: beIN Movies Family
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77285
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" group-title="Turkey",TR: beIN Movies Turk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77286
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2" tvg-logo="http://myserveriptv.com:2082/images/94f04d79e092c746787c7410e3488fd9.png" group-title="Turkey",TR: Sinema TV 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/138654
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli" tvg-logo="http://myserveriptv.com:2082/images/0d849171f2f5937936bafc4a363276ae.png" group-title="Turkey",TR: Sinema TV Yerli
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77419
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1001" tvg-logo="http://myserveriptv.com:2082/images/47685c68748efcc06f7cf97fb615f605.png" group-title="Turkey",TR: Sinema TV 1001
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/138657
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi 2" tvg-logo="http://myserveriptv.com:2082/images/36dcd79ad66d8d23fe8d51622652907a.png" group-title="Turkey",TR: Sinema Komedi 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/138658
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1002" tvg-logo="http://myserveriptv.com:2082/images/e34350893eb1457f7c9476f6308bab45.png" group-title="Turkey",TR: Sinema TV 1002
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/113590
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi" tvg-logo="http://myserveriptv.com:2082/images/28277dd9d204e029009f2ad3546408b0.png" group-title="Turkey",TR: Sinema Komedi
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/113593
+#EXTINF:-1 tvg-id="" tvg-name="TR: DiziSmart Premium" tvg-logo="http://myserveriptv.com:2082/images/e0b0d0f97c885aa2094a94890645a1b6.png" group-title="Turkey",TR: DiziSmart Premium
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/129145
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Classic" tvg-logo="http://myserveriptv.com:2082/images/75dcb86a0f25925f6f57cea0780ccfee.png" group-title="Turkey",TR: Moviesmart Classic
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/77297
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Turk" tvg-logo="http://myserveriptv.com:2082/images/49c2fd3180b99fbc7f91f2fea3914854.png" group-title="Turkey",TR: Moviesmart Turk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/138651
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 4" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="Turkey",TR: beIN Series 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/236254
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 3" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="Turkey",TR: beIN Series 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/236255
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV" tvg-logo="" group-title="Turkey",TR: 360 TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237762
+#EXTINF:-1 tvg-id="" tvg-name="TR: A news" tvg-logo="" group-title="Turkey",TR: A news
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237763
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="Turkey",TR: A2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237764
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akit TV" tvg-logo="" group-title="Turkey",TR: Akit TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237765
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arti TV" tvg-logo="" group-title="Turkey",TR: Arti TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237766
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 1" tvg-logo="" group-title="Turkey",TR: beIN Box Office 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237769
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="" group-title="Turkey",TR: beIN Box Office 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237770
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 3" tvg-logo="" group-title="Turkey",TR: beIN Box Office 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237771
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bursa" tvg-logo="" group-title="Turkey",TR: Bursa
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237772
+#EXTINF:-1 tvg-id="" tvg-name="TR: Uzay Haber" tvg-logo="" group-title="Turkey",TR: Uzay Haber
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237774
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cay Yolo TV" tvg-logo="" group-title="Turkey",TR: Cay Yolo TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237775
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yaban TV" tvg-logo="" group-title="Turkey",TR: Yaban TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237776
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulusal TV" tvg-logo="" group-title="Turkey",TR: Ulusal TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237778
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV4" tvg-logo="" group-title="Turkey",TR: TV4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237779
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Çocuk" tvg-logo="" group-title="Turkey",TR: Minika Çocuk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237780
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Kurdi" tvg-logo="" group-title="Turkey",TR: TRT Kurdi
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237782
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="Turkey",TR: FX HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237786
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Comedy" tvg-logo="" group-title="Turkey",TR: beIN Series Comedy
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237787
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aile" tvg-logo="" group-title="Turkey",TR: Sinema Aile
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237788
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aile 2" tvg-logo="" group-title="Turkey",TR: Sinema Aile 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237789
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon" tvg-logo="" group-title="Turkey",TR: Sinema Aksiyon
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237790
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon 2" tvg-logo="" group-title="Turkey",TR: Sinema Aksiyon 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237791
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Turk" tvg-logo="" group-title="Turkey",TR: Power Turk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237792
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro Star" tvg-logo="" group-title="Turkey",TR: Euro Star
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237793
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="http://myserveriptv.com:2082/images/c599760036bcf57fde883151b7150c2b.png" group-title="Turkey",TR: TLC
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237795
+#EXTINF:-1 tvg-id="" tvg-name="TR: Halk TV" tvg-logo="" group-title="Turkey",TR: Halk TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237798
+#EXTINF:-1 tvg-id="" tvg-name="TR: Beyaz TV" tvg-logo="" group-title="Turkey",TR: Beyaz TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237801
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dost TV" tvg-logo="" group-title="Turkey",TR: Dost TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237804
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri TV" tvg-logo="" group-title="Turkey",TR: Kayseri TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237806
+#EXTINF:-1 tvg-id="" tvg-name="TR: Semerkand TV" tvg-logo="" group-title="Turkey",TR: Semerkand TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237808
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Belgesel" tvg-logo="" group-title="Turkey",TR: TGRT Belgesel
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237809
+#EXTINF:-1 tvg-id="" tvg-name="TR: ON 4" tvg-logo="" group-title="Turkey",TR: ON 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237810
+#EXTINF:-1 tvg-id="" tvg-name="TR: Koy TV" tvg-logo="" group-title="Turkey",TR: Koy TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/237811
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 5" tvg-logo="" group-title="Turkey",TR: TV 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242643
+#EXTINF:-1 tvg-id="" tvg-name="TR: SÖZCÜ TV" tvg-logo="" group-title="Turkey",TR: SÖZCÜ TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242644
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cnn Turk" tvg-logo="http://myserveriptv.com:2082/images/2f2c9ac6fa8c14f19f31b453bd7f6905.png" group-title="Turkey",TR: Cnn Turk
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250362
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT" tvg-logo="" group-title="Turkey",TR: KRT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250363
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVNET" tvg-logo="" group-title="Turkey",TR: TVNET
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250364
+#EXTINF:-1 tvg-id="" tvg-name="TR: IBB" tvg-logo="" group-title="Turkey",TR: IBB
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250366
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 4K" tvg-logo="" group-title="Turkey",TR: MAX 4K
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250374
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX" tvg-logo="" group-title="Turkey",TR: MAX
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250375
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX AKSIYON" tvg-logo="" group-title="Turkey",TR: MAX AKSIYON
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250380
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX AKSIYON 2" tvg-logo="" group-title="Turkey",TR: MAX AKSIYON 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250381
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PREMIER" tvg-logo="" group-title="Turkey",TR: MAX PREMIER
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250382
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX ORIJINAL" tvg-logo="" group-title="Turkey",TR: MAX ORIJINAL
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250383
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD" tvg-logo="" group-title="Turkey",TR: MAX GOLD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250384
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TK" tvg-logo="" group-title="Turkey",TR: MAX TK
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/250385
+#EXTINF:-1 tvg-id="" tvg-name="TR:: DIZI" tvg-logo="http://myserveriptv.com:2082/images/6ce3510b2f1e7bd825b5b85a85bd117c.png" group-title="Turkey",TR:: DIZI
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/209946
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1" tvg-logo="http://myserveriptv.com:2082/images/fada916c769118eee0c28fcff416b1b4.png" group-title="Italy",IT: Rai 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14597
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 2" tvg-logo="http://myserveriptv.com:2082/images/f3e3e4dd982ec2ab2b73f95ec31e9862.png" group-title="Italy",IT: Rai 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14598
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 3" tvg-logo="http://myserveriptv.com:2082/images/d0999fb9d82787b18448a00a3cfd5dae.png" group-title="Italy",IT: Rai 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14599
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4" tvg-logo="http://myserveriptv.com:2082/images/00906aca1f3d80ace6fa9ad394bac971.png" group-title="Italy",IT: Rai 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14716
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5" tvg-logo="http://myserveriptv.com:2082/images/503a17ab1aa9054ec325ce0b0b0cfcb0.png" group-title="Italy",IT: Rai 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14717
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Premium" tvg-logo="http://myserveriptv.com:2082/images/85e7977ebac81f3b5c059d1b3e070861.png" group-title="Italy",IT: Rai Premium
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/43914
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie" tvg-logo="http://myserveriptv.com:2082/images/dd8aac103149055db1327c9863aa7d1c.png" group-title="Italy",IT: Rai Movie
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14719
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5" tvg-logo="http://myserveriptv.com:2082/images/ec25b971dedca2bf00144f3d428748be.png" group-title="Italy",IT: Canale 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14601
+#EXTINF:-1 tvg-id="" tvg-name="IT: 20 Mediaset HD" tvg-logo="http://myserveriptv.com:2082/images/bab1ad100868cd750541d2f7ed104ac9.png" group-title="Italy",IT: 20 Mediaset HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14713
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Italia 1" tvg-logo="http://myserveriptv.com:2082/images/981511de3ffbad2455e1f1611dc3d2e4.png" group-title="Italy",IT: Mediaset Italia 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14602
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Italia 2" tvg-logo="http://myserveriptv.com:2082/images/981511de3ffbad2455e1f1611dc3d2e4.png" group-title="Italy",IT: Mediaset Italia 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14712
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset IRIS" tvg-logo="" group-title="Italy",IT: Mediaset IRIS
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242078
+#EXTINF:-1 tvg-id="" tvg-name="IT: Giallo" tvg-logo="http://myserveriptv.com:2082/images/6fad20088c0b8cf3e1e833fc8bb486e5.png" group-title="Italy",IT: Giallo
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14722
+#EXTINF:-1 tvg-id="" tvg-name="IT: La 5" tvg-logo="http://myserveriptv.com:2082/images/f8edd323a909942639baa866417749a0.png" group-title="Italy",IT: La 5
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14715
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai News 24" tvg-logo="http://myserveriptv.com:2082/images/8a1d97504f06310d8e081435b096f843.png" group-title="Italy",IT: Rai News 24
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14861
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tgcom 24" tvg-logo="http://myserveriptv.com:2082/images/1b6f8ba4f07fa3f5ea8b4eff7b95f808.png" group-title="Italy",IT: Tgcom 24
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14858
+#EXTINF:-1 tvg-id="" tvg-name="IT: TG La 7" tvg-logo="http://myserveriptv.com:2082/images/b880751f258067ff59b9e36b853a0566.png" group-title="Italy",IT: TG La 7
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14603
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete 4" tvg-logo="http://myserveriptv.com:2082/images/7c4d2726eb150d260ac9c8b783c531bd.png" group-title="Italy",IT: Rete 4
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14600
+#EXTINF:-1 tvg-id="" tvg-name="IT: Real Time" tvg-logo="http://myserveriptv.com:2082/images/b94d1a0e854276543800efe4057bbdec.png" group-title="Italy",IT: Real Time
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/213751
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Gulp" tvg-logo="http://myserveriptv.com:2082/images/9e08dc4ab0f0d8f3b1f7cf605cc6c35d.png" group-title="Italy",IT: Rai Gulp
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14857
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Yoyo" tvg-logo="http://myserveriptv.com:2082/images/e5e49949f53bc4dfebc479166163f965.png" group-title="Italy",IT: Rai Yoyo
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14856
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cartoonito" tvg-logo="http://myserveriptv.com:2082/images/6f38e0a053bd7aad52927c890baf994a.png" group-title="Italy",IT: Cartoonito
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14851
+#EXTINF:-1 tvg-id="" tvg-name="IT: Frisbee" tvg-logo="http://myserveriptv.com:2082/images/48f42bd9f5b07912c2f3e5b7fa785468.png" group-title="Italy",IT: Frisbee
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/213705
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super!" tvg-logo="http://myserveriptv.com:2082/images/45137aefbfa9238fd92c07971a506f41.png" group-title="Italy",IT: Super!
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/213707
+#EXTINF:-1 tvg-id="" tvg-name="IT: Gambero Rosso" tvg-logo="" group-title="Italy",IT: Gambero Rosso
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242079
+#EXTINF:-1 tvg-id="" tvg-name="IT: Food Network" tvg-logo="" group-title="Italy",IT: Food Network
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/242080
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Storia" tvg-logo="http://myserveriptv.com:2082/images/e56cf515e243b4063fd545fbd37192dd.png" group-title="Italy",IT: Rai Storia
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14837
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Scuola" tvg-logo="http://myserveriptv.com:2082/images/7b036298282a1a27fcca0f5750d68797.png" group-title="Italy",IT: Rai Scuola
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14720
+#EXTINF:-1 tvg-id="" tvg-name="IT: Focus" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" group-title="Italy",IT: Focus
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/213749
+#EXTINF:-1 tvg-id="" tvg-name="IT: Top Crime" tvg-logo="http://myserveriptv.com:2082/images/10f15e9efbf0cf9f46aa32300657a58a.png" group-title="Italy",IT: Top Crime
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/14707
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 1 HD" tvg-logo="" group-title="Italy",IT: Primafila 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/252813
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 2 HD" tvg-logo="" group-title="Italy",IT: Primafila 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/252814
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 3 HD" tvg-logo="" group-title="Italy",IT: Primafila 3 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/252815
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 4 HD" tvg-logo="" group-title="Italy",IT: Primafila 4 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/252816
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 7 HD" tvg-logo="" group-title="Italy",IT: Primafila 7 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/252817
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 8 HD" tvg-logo="" group-title="Italy",IT: Primafila 8 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/252818
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 9 HD" tvg-logo="" group-title="Italy",IT: Primafila 9 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/252819
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 10 HD" tvg-logo="" group-title="Italy",IT: Primafila 10 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/252820
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena 1" tvg-logo="http://myserveriptv.com:2082/images/e31c0de9b4160431be9aebdfa271b4cb.png" group-title="Romania",RO: Antena 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31056
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena 3" tvg-logo="http://myserveriptv.com:2082/images/278c010893ed8947584acbc7c1cf9609.png" group-title="Romania",RO: Antena 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31057
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena Stars" tvg-logo="http://myserveriptv.com:2082/images/5333bbd4fd624e6a66d117840be9527c.png" group-title="Romania",RO: Antena Stars
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31061
+#EXTINF:-1 tvg-id="" tvg-name="RO: Romania TV" tvg-logo="http://myserveriptv.com:2082/images/435842d73570a24e1406ff5f6f878b11.png" group-title="Romania",RO: Romania TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31175
+#EXTINF:-1 tvg-id="" tvg-name="RO: National TV" tvg-logo="http://myserveriptv.com:2082/images/c23f0bf4f8d9fe94a6b0ec9ae5482433.png" group-title="Romania",RO: National TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31152
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 1" tvg-logo="http://myserveriptv.com:2082/images/78e50067364a48925cd9eea09c9324a0.png" group-title="Romania",RO: TVR 1
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/112230
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 2" tvg-logo="http://myserveriptv.com:2082/images/dcb5f2dc29e49c4565face06dbafafbf.png" group-title="Romania",RO: TVR 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31203
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 3" tvg-logo="http://myserveriptv.com:2082/images/b9a3e871431bf75a6ef5691c9b095c52.png" group-title="Romania",RO: TVR 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31204
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro Tv" tvg-logo="http://myserveriptv.com:2082/images/8eecc35dfc24ed12a27530371ec24dca.png" group-title="Romania",RO: Pro Tv
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31166
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro 2" tvg-logo="http://myserveriptv.com:2082/images/4b522256675001cbe494887e74c4bbc4.png" group-title="Romania",RO: Pro 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31163
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro Tv Internațional" tvg-logo="http://myserveriptv.com:2082/images/2d69e2eed4588351b02a963f3eecb4ef.png" group-title="Romania",RO: Pro Tv Internațional
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/144766
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro Cinema" tvg-logo="http://myserveriptv.com:2082/images/25233e7de25b1855d281f0cac474234a.png" group-title="Romania",RO: Pro Cinema
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31164
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro Gold" tvg-logo="http://myserveriptv.com:2082/images/4a6146c0f341266a48497b8849ee235d.png" group-title="Romania",RO: Pro Gold
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31165
+#EXTINF:-1 tvg-id="" tvg-name="RO: AMC" tvg-logo="http://myserveriptv.com:2082/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="Romania",RO: AMC
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/36305
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN Spin" tvg-logo="http://myserveriptv.com:2082/images/3cfb709aecc6851ba072e053fc261684.png" group-title="Romania",RO: AXN Spin
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/112215
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN Black" tvg-logo="http://myserveriptv.com:2082/images/2dc4dc9dedc983a9676e40c7756d227d.png" group-title="Romania",RO: AXN Black
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31063
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN White" tvg-logo="http://myserveriptv.com:2082/images/2dc4dc9dedc983a9676e40c7756d227d.png" group-title="Romania",RO: AXN White
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31065
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO Romania" tvg-logo="http://myserveriptv.com:2082/images/509e5f41146e278f9eab1ddaceb34515.png" group-title="Romania",RO: HBO Romania
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31120
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 2" tvg-logo="http://myserveriptv.com:2082/images/675664b597f318f30d66c8d8834ea421.png" group-title="Romania",RO: HBO 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31118
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 3" tvg-logo="http://myserveriptv.com:2082/images/d046646144a8fbb77e38cf4bf52baec8.png" group-title="Romania",RO: HBO 3
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31119
+#EXTINF:-1 tvg-id="" tvg-name="RO: Comedy Central" tvg-logo="http://myserveriptv.com:2082/images/d85df652c2f313b2e66b5489e59774b0.png" group-title="Romania",RO: Comedy Central
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/145058
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax" tvg-logo="http://myserveriptv.com:2082/images/156313ed0e9462c9a84fe4cf60ba4f7d.png" group-title="Romania",RO: Cinemax
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31079
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax 2" tvg-logo="http://myserveriptv.com:2082/images/a6dd86c9eb476c0bc4122e6873cf9ea9.png" group-title="Romania",RO: Cinemax 2
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31080
+#EXTINF:-1 tvg-id="" tvg-name="RO: CineMaraton" tvg-logo="http://myserveriptv.com:2082/images/d2fe3b85c3a4b56be17d9c92728d88e0.png" group-title="Romania",RO: CineMaraton
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/158248
+#EXTINF:-1 tvg-id="" tvg-name="RO: FilmBox Family" tvg-logo="http://myserveriptv.com:2082/images/724f0742ab85ab2d08e5a58b6a48beba.png" group-title="Romania",RO: FilmBox Family
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126549
+#EXTINF:-1 tvg-id="" tvg-name="RO: Film Cafe" tvg-logo="http://myserveriptv.com:2082/images/2a4fae01739a8eea5414a2d39b8edc54.png" group-title="Romania",RO: Film Cafe
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31111
+#EXTINF:-1 tvg-id="" tvg-name="RO: Film Now" tvg-logo="http://myserveriptv.com:2082/images/9e625a7fb279f3428d60e27eb873c435.png" group-title="Romania",RO: Film Now
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31112
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV 1000" tvg-logo="http://myserveriptv.com:2082/images/2cad836eeb96399651c9efd30c8c1ede.png" group-title="Romania",RO: TV 1000
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31196
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood TV" tvg-logo="http://myserveriptv.com:2082/images/4f0a255239d91da1547c989df7510798.png" group-title="Romania",RO: Bollywood TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31071
+#EXTINF:-1 tvg-id="" tvg-name="RO: Diva " tvg-logo="http://myserveriptv.com:2082/images/676e6982e096f4e8a258334e5764251d.png" group-title="Romania",RO: Diva 
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31103
+#EXTINF:-1 tvg-id="" tvg-name="RO: Prima TV" tvg-logo="http://myserveriptv.com:2082/images/03ad331169e4cf129cb091d26d623f5e.png" group-title="Romania",RO: Prima TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31162
+#EXTINF:-1 tvg-id="" tvg-name="RO: Kanal D" tvg-logo="http://myserveriptv.com:2082/images/1e6fffa02f332fba4f4571ea33a90c84.png" group-title="Romania",RO: Kanal D
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31130
+#EXTINF:-1 tvg-id="" tvg-name="RO: TLC" tvg-logo="http://myserveriptv.com:2082/images/c599760036bcf57fde883151b7150c2b.png" group-title="Romania",RO: TLC
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31190
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV Paprika" tvg-logo="http://myserveriptv.com:2082/images/d577e21b929ab8cd6d19a69bedd1e12c.png" group-title="Romania",RO: TV Paprika
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/36295
+#EXTINF:-1 tvg-id="" tvg-name="RO: Kiss TV" tvg-logo="http://myserveriptv.com:2082/images/2178d193056632ec906ceba682621ba1.png" group-title="Romania",RO: Kiss TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31132
+#EXTINF:-1 tvg-id="" tvg-name="RO: Taraf TV" tvg-logo="http://myserveriptv.com:2082/images/29eb844dda9077b2edd33d48c62db4bf.png" group-title="Romania",RO: Taraf TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31182
+#EXTINF:-1 tvg-id="" tvg-name="RO: Zu TV" tvg-logo="http://myserveriptv.com:2082/images/c6ad9f9db10cde0cb26213f0c3348f57.png" group-title="Romania",RO: Zu TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31218
+#EXTINF:-1 tvg-id="" tvg-name="RO: Favorit" tvg-logo="http://myserveriptv.com:2082/images/4dcdd085d921bf0b4a7e9365b63fa9b3.png" group-title="Romania",RO: Favorit
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31110
+#EXTINF:-1 tvg-id="" tvg-name="RO: National 24 Plus" tvg-logo="http://myserveriptv.com:2082/images/129d352db4fdb3980d95faeefff68e8d.png" group-title="Romania",RO: National 24 Plus
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/145068
+#EXTINF:-1 tvg-id="" tvg-name="RO: Publika TV" tvg-logo="http://myserveriptv.com:2082/images/0d4d75b55494cfca369b064b9182ab6f.png" group-title="Romania",RO: Publika TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31171
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi 24" tvg-logo="http://myserveriptv.com:2082/images/5be734f0f4b497b4cea16d0c69118baa.png" group-title="Romania",RO: Digi 24
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31096
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi World" tvg-logo="http://myserveriptv.com:2082/images/0b6486f93ddfde3a55624cd1ce8b0b69.png" group-title="Romania",RO: Digi World
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31095
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Life" tvg-logo="http://myserveriptv.com:2082/images/d9f89bd2f313b1c1a3c24af7259adccc.png" group-title="Romania",RO: Digi Life
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31090
+#EXTINF:-1 tvg-id="" tvg-name="RO: Agro TV" tvg-logo="http://myserveriptv.com:2082/images/0310cc7146e1ea9322a00bc3a74f7eb4.png" group-title="Romania",RO: Agro TV
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/126547
+#EXTINF:-1 tvg-id="" tvg-name="RO: Minimax" tvg-logo="http://myserveriptv.com:2082/images/380c18e239f03cf9c0a846c7defd029b.png" group-title="Romania",RO: Minimax
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31137
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro Arena" tvg-logo="" group-title="Romania",RO: Pro Arena
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/240900
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN Romania" tvg-logo="http://myserveriptv.com:2082/images/2dc4dc9dedc983a9676e40c7756d227d.png" group-title="Romania",RO: AXN Romania
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/248376
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinethronix" tvg-logo="" group-title="Romania",RO: Cinethronix
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/248384
+#EXTINF:-1 tvg-id="" tvg-name="RO: TNT" tvg-logo="" group-title="Romania",RO: TNT
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/248404
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Animal World" tvg-logo="http://myserveriptv.com:2082/images/30dfc24d47b725abce92ccf8bb8227de.png" group-title="Romania",RO: Digi Animal World
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/31089
+#EXTINF:-1 tvg-id="" tvg-name="Sen İnandır  اجعلني أصدق(2023)" tvg-logo="http://myserveriptv.com:2082/images/1bf238d9622c64f7d4572eded7d57e3c.jpg" group-title="أفلام تركية",Sen İnandır  اجعلني أصدق(2023)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10Days of a Bad Man" tvg-logo="http://myserveriptv.com:2082/images/28cba9306c0bc4a5d3ae7c58838f07aa.jpg" group-title="أفلام تركية",10Days of a Bad Man
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 أيام من حياة رجل سيّئ" tvg-logo="http://myserveriptv.com:2082/images/05cb8568795aed600d5dc9ace5d93aee.jpg" group-title="أفلام تركية",10 أيام من حياة رجل سيّئ
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Not Disturb (2023)" tvg-logo="http://myserveriptv.com:2082/images/18d0184b98a7ebe8a9430754413eb316.jpg" group-title="أفلام تركية",Do Not Disturb (2023)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In Good Hands (2022)" tvg-logo="http://myserveriptv.com:2082/images/7377ecc77f6aac4d4a058d6a427ee795.jpg" group-title="أفلام تركية",In Good Hands (2022)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/200748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cici (2022)" tvg-logo="http://myserveriptv.com:2082/images/80bf5121d5f1d51dfc254533cfe37073.jpg" group-title="أفلام تركية",Cici (2022)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/224425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Azizler (2021)" tvg-logo="http://myserveriptv.com:2082/images/ffa191ff66a1dd0004f02052d4d37fed.jpg" group-title="أفلام تركية",Azizler (2021)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kız Kardeşler (2019)" tvg-logo="http://myserveriptv.com:2082/images/75e4f594a673d8f281626f0facf90743.jpg" group-title="أفلام تركية",Kız Kardeşler (2019)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kerr (2022)" tvg-logo="http://myserveriptv.com:2082/images/7b252577de38d45d6882c1c823659c4a.jpg" group-title="أفلام تركية",Kerr (2022)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misafir (2011)" tvg-logo="http://myserveriptv.com:2082/images/dd0daf2eb906e02373e65052bebf1173.jpg" group-title="أفلام تركية",Misafir (2011)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gönül (2022)" tvg-logo="http://myserveriptv.com:2082/images/5ae79e35321dcfeebe97318562dc335f.jpg" group-title="أفلام تركية",Gönül (2022)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anka (2022)" tvg-logo="http://myserveriptv.com:2082/images/2338aa9f82fba77690ada4d44e455527.jpg" group-title="أفلام تركية",Anka (2022)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bağlılık Hasan (2021)" tvg-logo="http://myserveriptv.com:2082/images/5607a95f73213957a3ec399d3d32f099.jpg" group-title="أفلام تركية",Bağlılık Hasan (2021)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aşkın Kıyameti (2022)" tvg-logo="http://myserveriptv.com:2082/images/bccfca8e1fcc3f62f39ea9b402bdbeb3.jpg" group-title="أفلام تركية",Aşkın Kıyameti (2022)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D@bbe 5: Zehr-i Cin (2014)" tvg-logo="http://myserveriptv.com:2082/images/0804c7838e3082f04d01e94f2bac9c5f.jpg" group-title="أفلام تركية",D@bbe 5: Zehr-i Cin (2014)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D@bbe (2006)" tvg-logo="http://myserveriptv.com:2082/images/e40317fedf27fee4e5250882190ddc41.jpg" group-title="أفلام تركية",D@bbe (2006)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D@bbe 2 (2009)" tvg-logo="http://myserveriptv.com:2082/images/9e9f436de76fbb1e85ef33c44477f95e.jpg" group-title="أفلام تركية",D@bbe 2 (2009)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="D@bbe 4: Cin Çarpması (2013)" tvg-logo="http://myserveriptv.com:2082/images/1d4b16ef6d67a129b49da2414d6f60b6.jpg" group-title="أفلام تركية",D@bbe 4: Cin Çarpması (2013)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dabbe 6 (2015)" tvg-logo="http://myserveriptv.com:2082/images/f9d6893c3373a878c1e8445e266d52c4.jpg" group-title="أفلام تركية",Dabbe 6 (2015)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Biz Böyleyiz (2020)" tvg-logo="http://myserveriptv.com:2082/images/2dea380661b3959c276d9890d5882010.jpg" group-title="أفلام تركية",Biz Böyleyiz (2020)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geçen Yaz (2021)" tvg-logo="http://myserveriptv.com:2082/images/4086721377de5c1ff577eddcd430e239.jpg" group-title="أفلام تركية",Geçen Yaz (2021)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinnet (2019)" tvg-logo="http://myserveriptv.com:2082/images/665e853f2c3b06db0d0f2b68949c32a0.jpg" group-title="أفلام تركية",Cinnet (2019)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinayet Süsü (2019)" tvg-logo="http://myserveriptv.com:2082/images/93b501e8f1e844974a531aa9839da3ae.jpg" group-title="أفلام تركية",Cinayet Süsü (2019)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yarına Tek Bilet (2020)" tvg-logo="http://myserveriptv.com:2082/images/440e0120cb22d12cf20ea51b134229e6.jpg" group-title="أفلام تركية",Yarına Tek Bilet (2020)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kurtlar Vadisi: Filistin (2011)" tvg-logo="http://myserveriptv.com:2082/images/07638a8fd342da120e0de0187793095d.jpg" group-title="أفلام تركية",Kurtlar Vadisi: Filistin (2011)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7. Koğuştaki Mucize (2019)" tvg-logo="http://myserveriptv.com:2082/images/c786aeafc28d0dfbd29932738a0edc8b.jpg" group-title="أفلام تركية",7. Koğuştaki Mucize (2019)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Siccîn (2014)" tvg-logo="http://myserveriptv.com:2082/images/4943dc31cc754a27fa2a4bf91ce54481.jpg" group-title="أفلام تركية",Siccîn (2014)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siccîn 2 (2015)" tvg-logo="http://myserveriptv.com:2082/images/27591aa87ed1274ca92e55a0cd5751f7.jpg" group-title="أفلام تركية",Siccîn 2 (2015)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siccîn 4 (2017)" tvg-logo="http://myserveriptv.com:2082/images/a5bd4920f744be1807010b351018f76d.jpg" group-title="أفلام تركية",Siccîn 4 (2017)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siccîn 5 (2018)" tvg-logo="http://myserveriptv.com:2082/images/161324758cc97c67eda54e46ea75221f.jpg" group-title="أفلام تركية",Siccîn 5 (2018)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siccîn 6 (2019)" tvg-logo="http://myserveriptv.com:2082/images/7e2f6b90235cf852cb7f3f331925bc06.jpg" group-title="أفلام تركية",Siccîn 6 (2019)
+http://dominoiptv.com:2082/movie/bestregards/9aDj23nCG84L5/252799.mkv
